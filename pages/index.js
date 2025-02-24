@@ -1,5 +1,4 @@
-function Home(){
-    return <div>Pizza Sexta?</div>
+function Home() {
+  return <div>Pizza Sexta?</div>;
 }
-
 export default Home;
